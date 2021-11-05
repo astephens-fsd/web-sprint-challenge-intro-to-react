@@ -6,5 +6,11 @@
   text-shadow: 1px 1px 5px #fff;
 }
 
+.Character {
+  border: 1rem solid black;
+  color: white;
+  font-size: large;
+  margin: 2rem;
+}
 
 /* write your parent styles in here for your App.js */
